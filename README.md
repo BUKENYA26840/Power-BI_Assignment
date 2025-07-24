@@ -15,6 +15,8 @@ The initial phase involves loading the data into a Pandas DataFrame for efficien
 This stage includes:
 
  Data Extraction and Cleaning: Extracting the relevant data from the source and cleaning inconsistencies to ensure data integrity. 
+
+ 
  Statistical Analysis: Generating summary statistics (mean, median, standard deviation), calculating quartiles, and identifying potential outliers to gain initial insights into the dataset's properties. 
 
 
