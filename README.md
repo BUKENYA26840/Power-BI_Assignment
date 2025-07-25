@@ -284,6 +284,36 @@ THIS IS THE MODEL VIEW IN PowerBI
 
 
 
+
+**FINAL PROJECT DASHBOARD**
+
+**In my visuals , i have used:**
+
+1.card
+2.gauge
+3. bar chart
+4. 5.Area chart
+5. 6.Bar chart
+6. line chart
+
+
+HERE IT IS
+
+
+
+
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/80204913-3cb2-4b29-8e6f-4c52aa1f65a1" />
+
+
+
+
+
+
+
+
+
  
 
  
