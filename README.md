@@ -55,26 +55,237 @@ This stage includes:
 
 ****Perform comprehensive exploratory data analysis (EDA) to understand:**
 
-• Dataset structure and dimensions
+**•Checking missing values**
 
-• Data types and variable descriptions
 
-• Initial data quality assessment**
+
 
 
 <img width="959" height="517" alt="Image" src="https://github.com/user-attachments/assets/3d169145-5d9b-4035-8bee-3270d46b4796" />
 
 
+
+**•Shape of the datasets**
+
+
+
+
+
 <img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/1b6f2835-29bc-4315-aaa2-93e8965f8255" />
+
+
+
+**•Number of Duplicates rows & datatype of each column**
 
 
 <img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/17a0212f-ed1d-4306-b8b9-52906ff666a2" />
 
+
+
+
+**•Number of unique values per column**
+
+
 <img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/78079650-9628-4e2c-b451-5b789cb82729" />
+
+
+
+
+**•Percentage of Missing valuues**
+
 
 <img width="959" height="422" alt="Image" src="https://github.com/user-attachments/assets/0832179c-6671-4987-a7f3-130594d6faab" />
 
+
+
+
+**•Variable description**
+
+
+
 <img width="959" height="504" alt="Image" src="https://github.com/user-attachments/assets/317369ba-7904-458c-b6d1-241f2168f774" />
+
+
+
+**•Cleaned data (Removing duplicates)**
+
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/cc5a24e9-a0e1-4041-b467-f9e5b519ca6f" />
+
+
+
+**•Handling missing values**
+
+
+<img width="959" height="505" alt="Image" src="https://github.com/user-attachments/assets/92487dbd-92b4-4616-b1a9-cb45cf812096" />
+
+
+
+
+**Generate descriptive statistics including:**
+
+
+**•MEAN**
+
+<img width="959" height="379" alt="2a mean" src="https://github.com/user-attachments/assets/ca07e8ee-ab07-499d-8115-24a4cefd0d07" />
+
+
+
+
+**•MEDIAN**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/f2deffef-7e18-41d8-a32c-709ae5f88cd6" />
+
+
+
+
+**•MODE**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/fed27ef7-8720-454f-bdf7-ab92ba94baf0" />
+
+
+**•OUTLIER**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/32c58263-0a09-477c-98a9-aed1ef5e64d5" />
+
+
+**•QUARTILE_1**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/c37a27b5-5530-4cb0-8ba4-0d535da36fca" />
+
+
+**•QUARTILE_2**
+
+
+<img width="959" height="538" alt="Image" src="https://github.com/user-attachments/assets/8e356947-36f1-4124-9eb1-34bc1f4bd58f" />
+
+
+
+
+**•QUARTILE_3**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/7acba4d9-d84a-456c-af5b-3250ccb3ad81" />
+
+
+
+**•STANDARD_DEVIATION**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/6085b11b-9472-41f0-b3fa-d2bbb29d3b4e" />
+
+
+
+
+**•visualizations showing fare distribution pattern & key relationships**
+
+
+ **Box plot OF Fare amounts by feature**
+
+
+
+
+<img width="604" height="499" alt="Image" src="https://github.com/user-attachments/assets/495f8766-350f-4ead-b335-df560b4b16a0" />
+
+
+
+    
+ **Kernel Density OF Fare amounts**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/02c9b27d-a527-4074-b709-112f03b3c90d" />
+
+
+
+ **Scatter Plot OF Fare amounts by feature**
+
+
+<img width="678" height="495" alt="Image" src="https://github.com/user-attachments/assets/00c19451-8812-47af-bf64-4ec51d84de86" />
+
+
+ **New Analytical feature**
+
+**1.**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/c3f5ae00-b9ed-4f31-8690-00b0ad36b09f" />
+
+
+
+
+**2.**
+
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/00004283-9b0d-4935-8318-7dc362015011" />
+
+
+
+
+
+
+
+
+
+ **Enhancing datasets**
+
+ 
+
+<img width="959" height="405" alt="Image" src="https://github.com/user-attachments/assets/a712a8ef-b9a3-476b-b99a-315fc6f966c6" />
+
+
+ **Saving enhanced datasets**
+
+
+ <img width="959" height="371" alt="Image" src="https://github.com/user-attachments/assets/3170f844-cd9d-4a23-921b-526923e54b0f" />
+
+
+
+**AS THE OUTPUT, ENHANCED DATASETS WAS CREATED IN MY FILE**
+
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/99e9d761-a00a-45bb-a577-cec9dfb847f0" />
+
+
+
+
+
+**NEXT: PowerBI in Summary**
+
+THIS IS THE MODEL VIEW IN PowerBI
+
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/3ea05671-0f9e-4ade-8cb6-701f3e75f9d8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
 
 
 
