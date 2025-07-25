@@ -255,6 +255,14 @@ This stage includes:
 
 
 
+ **Some of Dashboard development stages**
+
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/7648ad3b-dee0-49ae-8bce-75d4486013a7" />
+
+
+
 
 **NEXT: PowerBI in Summary**
 
