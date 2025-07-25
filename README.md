@@ -44,5 +44,12 @@ This stage includes:
  This project will deliver valuable insights into the complex world of ride pricing and user behavior. It will offer a robust foundation for informed decision-making by providing data-driven recommendations. 
 
 
+**HERE ARE SOME OF THE RESULTS WITH THEIR LABELS:**
+
+
+**Load the dataset into a Pandas DataFrame using Python**
+
+<img width="959" height="405" alt="Image" src="https://github.com/user-attachments/assets/78f4a850-e492-4fb2-9cce-751888267c1e" />
+
 
 
