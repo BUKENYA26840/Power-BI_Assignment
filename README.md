@@ -1,4 +1,4 @@
-This README summarizes the Uber Ride Data Analysis project and provides a clear roadmap for achieving project goals.  The project focuses on uncovering insights into fare patterns, ride behaviors, and pricing influences using PowerBI.
+This README summarizes the Uber Fares Data Analysis project and provides a clear roadmap for achieving project goals.  The project focuses on uncovering insights into fare patterns, ride behaviors, and pricing influences using PowerBI.
 
 
 **Project Overview**
