@@ -44,12 +44,39 @@ This stage includes:
  This project will deliver valuable insights into the complex world of ride pricing and user behavior. It will offer a robust foundation for informed decision-making by providing data-driven recommendations. 
 
 
+
 **HERE ARE SOME OF THE RESULTS WITH THEIR LABELS:**
 
 
 **Load the dataset into a Pandas DataFrame using Python**
 
-<img width="959" height="405" alt="Image" src="https://github.com/user-attachments/assets/78f4a850-e492-4fb2-9cce-751888267c1e" />
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/da58a493-6802-4574-abeb-a26ef8beeeb6" />
+
+
+****Perform comprehensive exploratory data analysis (EDA) to understand:**
+
+• Dataset structure and dimensions
+
+• Data types and variable descriptions
+
+• Initial data quality assessment**
+
+
+<img width="959" height="517" alt="Image" src="https://github.com/user-attachments/assets/3d169145-5d9b-4035-8bee-3270d46b4796" />
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/1b6f2835-29bc-4315-aaa2-93e8965f8255" />
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/17a0212f-ed1d-4306-b8b9-52906ff666a2" />
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/78079650-9628-4e2c-b451-5b789cb82729" />
+
+<img width="959" height="422" alt="Image" src="https://github.com/user-attachments/assets/0832179c-6671-4987-a7f3-130594d6faab" />
+
+<img width="959" height="504" alt="Image" src="https://github.com/user-attachments/assets/317369ba-7904-458c-b6d1-241f2168f774" />
+
+
 
 
 
