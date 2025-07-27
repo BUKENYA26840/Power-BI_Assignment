@@ -278,6 +278,8 @@ THIS IS THE MODEL VIEW IN PowerBI
  **Some of Dashboard development stages**
 
 
+**Here i was trying to visualize my analytics and designing a dashboard**
+
 
 <img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/7648ad3b-dee0-49ae-8bce-75d4486013a7" />
 
