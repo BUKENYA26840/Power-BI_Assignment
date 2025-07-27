@@ -24,7 +24,7 @@ This stage includes:
  The project will then focus on:
    * Creating new analytical features like hour-based categories, day of week classification, and peak/off-peak indicators.  
    * Encoding categorical variables for further analysis.
-**Power BI Integration & Visualization:**Importing the cleansed data into Power BI Desktop for interactive exploration. 
+**Power BI Integration & Visualization:Importing the cleansed data into Power BI Desktop for interactive exploration. 
       Generating compelling visualizations to demonstrate key findings: 
       * Distribution of fares using histograms and box plots.
       * Time-based analysis of ride patterns (hourly, daily, monthly).
